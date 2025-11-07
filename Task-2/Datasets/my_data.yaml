@@ -1,0 +1,12 @@
+path: C:/Users/kriti/Documents/IIIT_Research_internship/datasets
+
+train: images
+val: images
+
+nc: 4
+
+names:
+  0: person
+  1: dog
+  2: bicycle
+  3: car
