@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# YOLO outputs
+runs/
+*.cache
+
+# Dataset (recommended to ignore if large)
+dataset/
+
+# OS files
+.DS_Store
+Thumbs.db
